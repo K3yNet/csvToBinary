@@ -1,4 +1,4 @@
-# Projeto_ED_2022-1
+# csvToBinary
 
 Por ser muito grande o arquivo .csv que estamos trabalhando, ele está disponível aqui: https://drive.google.com/drive/folders/1WzGpaS9SNHUlrDSybl4WntzU7NMdYonE
 
